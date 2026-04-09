@@ -13,6 +13,12 @@ Download this repo:
 gh repo clone joshnuss/stl-generator
 ```
 
+Install dependencies:
+
+```
+pip install -r requirements.txt
+```
+
 Run the app:
 
 ```sh
