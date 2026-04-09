@@ -1,4 +1,4 @@
-Parametric CAD to STL
+Parametric CAD model to STL
 ---------------------
 
 This is a web app that returns a dynamically generated STL file based on a parametric CAD model.
