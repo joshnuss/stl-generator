@@ -31,6 +31,8 @@ Visit the app in your browser:
 http://localhost:5000/example.stl?height=100&radius=20
 ```
 
+**Note**: The query params `height` and `radius` can be used to dynamically adjust the size of the cylinder.
+
 ## License
 
 MIT
